@@ -1,5 +1,7 @@
 # Contributing
 
+Test
+
 ## Local development
 
 - The complete test suite depends on having at least the following installed
